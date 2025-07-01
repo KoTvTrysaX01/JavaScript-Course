@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+#rollBtn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+#myLabel{
+    font-size: 3em;
+}
+
+.myLabels{
+    font-size: 3em;
+}
